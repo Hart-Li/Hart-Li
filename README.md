@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Hartli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hart-Li&hide=stars,prs,contribs&show_icons=true&bg_color=#d4fc79,#96e6a1)](https://github.com/Hart-Li)
+[![Hartli github 一览](https://github-readme-stats.vercel.app/api?username=Hart-Li&hide=stars,prs,contribs&show_icons=true&bg_color=d4fc79,96e6a1)](https://github.com/Hart-Li)
+
+
+
+[![最常用的技术栈](https://github-readme-stats.vercel.app/api/top-langs?username=Hart-Li&hide=stars,prs,contribs&show_icons=true&bg_color=d4fc79,96e6a1)](https://github.com/Hart-Li)
