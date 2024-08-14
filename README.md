@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **463644535@qq.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hart-li&show_icons=true&locale=en&layout=compact" alt="hart-li" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hart-li&show_icons=true&locale=en" alt="hart-li" />&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hart-li&show_icons=true&locale=en&layout=compact" alt="hart-li" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hart-li&show_icons=true&locale=en" alt="hart-li" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hart-li&" alt="hart-li" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hart-li&" alt="hart-li" /></p>
